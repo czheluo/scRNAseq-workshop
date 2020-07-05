@@ -29,9 +29,9 @@
 | [Normalization and Integration](../lessons/06_SC_SCT_and_integration.md) | [Meng Luo](http://mengluonet.com/) |
 | Break | |
 | [Normalization and Integration](../lessons/06_SC_SCT_and_integration.md) | [Meng Luo](http://mengluonet.com/) |
-| [Clustering](../lessons/07_SC_clustering_cells_SCT.md) | Radhika |
+| [Clustering](../lessons/07_SC_clustering_cells_SCT.md) | [Meng Luo](http://mengluonet.com/) |
 | Lunch | |
-| [Clustering](../lessons/07_SC_clustering_cells_SCT.md) | Radhika |
+| [Clustering](../lessons/07_SC_clustering_cells_SCT.md) | [Meng Luo](http://mengluonet.com/) |
 | [Clustering quality control](../lessons/08_SC_clustering_quality_control.md) | [Meng Luo](http://mengluonet.com/) |
 | Break | |
 | [Marker identification](../lessons/09_merged_SC_marker_identification.md) | [Meng Luo](http://mengluonet.com/) |
