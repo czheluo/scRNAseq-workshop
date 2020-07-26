@@ -32,7 +32,7 @@
 | [Clustering](../lessons/07_SC_clustering_cells_SCT.md) | [Meng Luo](http://mengluonet.com/) |
 | Lunch | |
 | [Clustering](../lessons/07_SC_clustering_cells_SCT.md) | [Meng Luo](http://mengluonet.com/) |
-| [Clustering quality control](../lessons/08_SC_clustering_quality_control.md) | [Meng Luo](http://mengluonet.com/) |
+| [Dimensionality Reduction and Clustering](../lessons/08_SC_clustering_quality_control.md) | [Meng Luo](http://mengluonet.com/) |
 | Break | |
 | [Marker identification](../lessons/09_merged_SC_marker_identification.md) | [Meng Luo](http://mengluonet.com/) |
 | [Wrap up](../slides/Workshop_wrapup.pdf) | [Meng Luo](http://mengluonet.com/) |
